@@ -220,6 +220,8 @@ module.exports = {
                 900: '#7C2D12',
             },
         },
+
+        
         spacing: {
             px: '1px',
             px: '1px',
